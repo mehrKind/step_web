@@ -1,12 +1,37 @@
-# React + Vite
+# 📱 Step App Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the official website for the **Step App**, built with **React + Vite**.  
+The website introduces the application, highlights its features, and provides a direct download link for the Android APK.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About the Project
+The Step App helps users track their daily steps, view progress on a live map, and stay motivated toward healthier habits.  
+The website is a landing page where users can learn about the app and download the APK file.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📥 Download
+👉 [Download Step App APK](./public/app.apk)  
+
+*(Make sure the APK is in your `public/` folder or update the link accordingly.)*
+
+---
+
+## 🖼️ Screenshot
+
+Here’s a preview of the website:
+
+![Step App Website Screenshot](./shot.png)
+
+*(Place a screenshot of the entire website in the root directory as `screenshot.png` and commit it to your repo.)*
+
+---
+
+## 🛠️ Tech Stack
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+---
+
