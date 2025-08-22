@@ -14,7 +14,6 @@ The website is a landing page where users can learn about the app and download t
 ## 📥 Download
 👉 [Download Step App APK](./public/app.apk)  
 
-*(Make sure the APK is in your `public/` folder or update the link accordingly.)*
 
 ---
 
