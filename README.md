@@ -24,8 +24,6 @@ Here’s a preview of the website:
 
 ![Step App Website Screenshot](./shot.png)
 
-*(Place a screenshot of the entire website in the root directory as `screenshot.png` and commit it to your repo.)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -34,4 +32,9 @@ Here’s a preview of the website:
 - [TailwindCSS](https://tailwindcss.com/)
 
 ---
+
+## 👥 Team
+- **Alireza Mehraban**  
+- **Fatemeh HomayoonFar**
+- **Nima Sharifinia**
 
