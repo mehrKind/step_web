@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+body{
+  direction: rtl;
+  background-color: #FBF7FF;
+}
+
+
+@font-face {
+    font-family: 'peyda';
+    src: url("./assets/fonts/Peyda-Medium.ttf");
+}
+@font-face {
+    font-family: 'peydaBold';
+    src: url("./assets/fonts/Peyda-Bold.ttf");
+}
+@font-face {
+    font-family: 'peydaExBold';
+    src: url("./assets/fonts/Peyda-ExtraBold.ttf");
+}
+@font-face {
+    font-family: 'peydaBlack';
+    src: url("./assets/fonts/Peyda-Black.ttf");
+}
+
+.peyda {
+    font-family: 'peyda', sans-serif;
+}
+.peydaBold {
+    font-family: 'peydaBold', sans-serif;
+}
+.peydaExBold {
+    font-family: 'peydaExBold', sans-serif;
+}
+.peydaBlack {
+    font-family: 'peydaBlack', sans-serif;
+}
